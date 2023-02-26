@@ -1,4 +1,3 @@
-Photoshop 2023
 
 Trên Thanh công cụ => chọn Select => Subject
 
